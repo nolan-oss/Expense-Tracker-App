@@ -68,3 +68,25 @@ C. Allow users to quickly enter and review their expenses.
 D. Complete a working version of the app by the end of the term.
   
 
+## Project Progress
+
+So far, I have completed my project outline and created wireframes showing how I want the Expense Tracker app to look. I have planned the main features, including adding expenses, viewing spending totals, and organizing expenses into categories. I also plan to include a monthly budget feature to help users manage their spending.
+
+The next step is to begin building the app in Android Studio. Once the main features are working, I will test the app, fix any issues, and upload the code to this repository.
+
+## Version Changelog
+
+**Version 0.1 – Previous**
+- Created the project outline.
+- Set up the GitHub repository and README.
+
+**Version 0.2 – Current**
+- Created wireframes for the app.
+- Planned the main screens and features.
+- Updated the project outline.
+
+**Version 0.3 – Planned**
+- Develop the app in Android Studio.
+- Add expense tracking and spending calculations.
+- Test the application and fix errors.
+- Upload the finished code to GitHub.
